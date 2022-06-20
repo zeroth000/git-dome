@@ -1,6 +1,6 @@
 hello git I love Git!
 我修改了wogail
-hello git I love Git!
+hello git I love Git! 原来分支
 hello git I love Git!
 hello git I love Git!
 hello git I love Git!
